@@ -166,6 +166,9 @@ $(function () {
                 $('.m-nav-item.m-nav-show').removeClass('m-nav-show');
             }
     });
+	$(document).find('img[data-original]').each(function(){
+		$(this).parent().attr("href", $(this).attr("data-original"));
+	});
 
     // 初始化加载 tooltipped.
     $('.tooltipped').tooltip();
