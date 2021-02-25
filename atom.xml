@@ -6,7 +6,7 @@
   <link href="https://xinxintu.github.io/atom.xml" rel="self"/>
   
   <link href="https://xinxintu.github.io/"/>
-  <updated>2021-02-21T11:45:34.996Z</updated>
+  <updated>2021-02-25T11:17:40.378Z</updated>
   <id>https://xinxintu.github.io/</id>
   
   <author>
@@ -15,6 +15,62 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Vue组件化</title>
+    <link href="https://xinxintu.github.io/posts/be21.html"/>
+    <id>https://xinxintu.github.io/posts/be21.html</id>
+    <published>2021-02-23T10:03:51.000Z</published>
+    <updated>2021-02-25T11:17:40.378Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Vue组件化&quot;&gt;&lt;a href=&quot;#Vue组件化&quot; class=&quot;headerlink&quot; title=&quot;Vue组件化&quot;&gt;&lt;/a&gt;Vue组件化&lt;/h1&gt;&lt;h4 id=&quot;1-现实中的组件化思想体现&quot;&gt;&lt;a href=&quot;#1-现实中的组件化思想体现&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="vue" scheme="https://xinxintu.github.io/tags/vue/"/>
+    
+    <category term="props" scheme="https://xinxintu.github.io/tags/props/"/>
+    
+    <category term="component" scheme="https://xinxintu.github.io/tags/component/"/>
+    
+    <category term="slot" scheme="https://xinxintu.github.io/tags/slot/"/>
+    
+    <category term="eventHub" scheme="https://xinxintu.github.io/tags/eventHub/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue常用特性</title>
+    <link href="https://xinxintu.github.io/posts/4ec1.html"/>
+    <id>https://xinxintu.github.io/posts/4ec1.html</id>
+    <published>2021-02-23T01:59:55.000Z</published>
+    <updated>2021-02-25T11:01:50.823Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Vue常用特性&quot;&gt;&lt;a href=&quot;#Vue常用特性&quot; class=&quot;headerlink&quot; title=&quot;Vue常用特性&quot;&gt;&lt;/a&gt;Vue常用特性&lt;/h1&gt;&lt;h4 id=&quot;1-过滤器&quot;&gt;&lt;a href=&quot;#1-过滤器&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="vue" scheme="https://xinxintu.github.io/tags/vue/"/>
+    
+    <category term="过滤器" scheme="https://xinxintu.github.io/tags/%E8%BF%87%E6%BB%A4%E5%99%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>hexo+github+hexo-theme-matery搭建个人博客</title>
