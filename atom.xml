@@ -6,7 +6,7 @@
   <link href="https://xinxintu.github.io/atom.xml" rel="self"/>
   
   <link href="https://xinxintu.github.io/"/>
-  <updated>2021-02-25T11:26:47.129Z</updated>
+  <updated>2021-02-28T03:14:10.806Z</updated>
   <id>https://xinxintu.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Vue前端交互</title>
+    <link href="https://xinxintu.github.io/posts/5014.html"/>
+    <id>https://xinxintu.github.io/posts/5014.html</id>
+    <published>2021-02-27T03:24:52.000Z</published>
+    <updated>2021-02-28T03:14:10.806Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Vue前后端交互&quot;&gt;&lt;a href=&quot;#Vue前后端交互&quot; class=&quot;headerlink&quot; title=&quot;Vue前后端交互&quot;&gt;&lt;/a&gt;Vue前后端交互&lt;/h1&gt;&lt;h2 id=&quot;1-前后端交互模式&quot;&gt;&lt;a href=&quot;#1-前后端交互模式&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="vue" scheme="https://xinxintu.github.io/tags/vue/"/>
+    
+  </entry>
   
   <entry>
     <title>Vue组件化</title>
