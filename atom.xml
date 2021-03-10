@@ -6,7 +6,7 @@
   <link href="https://xinxintu.github.io/atom.xml" rel="self"/>
   
   <link href="https://xinxintu.github.io/"/>
-  <updated>2021-03-01T17:34:56.631Z</updated>
+  <updated>2021-03-10T02:38:17.290Z</updated>
   <id>https://xinxintu.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>js面试题</title>
+    <link href="https://xinxintu.github.io/posts/9482.html"/>
+    <id>https://xinxintu.github.io/posts/9482.html</id>
+    <published>2021-03-09T02:40:02.000Z</published>
+    <updated>2021-03-10T02:38:17.290Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;js面试题&quot;&gt;&lt;a href=&quot;#js面试题&quot; class=&quot;headerlink&quot; title=&quot;js面试题&quot;&gt;&lt;/a&gt;js面试题&lt;/h1&gt;&lt;h2 id=&quot;1-判断一个字符串中出现次数最多的字符，并统计次数&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="js" scheme="https://xinxintu.github.io/tags/js/"/>
+    
+    <category term="split" scheme="https://xinxintu.github.io/tags/split/"/>
+    
+  </entry>
   
   <entry>
     <title>Vue前端交互</title>
