@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>XinXinM</title>
+  
+  <subtitle>星欣慢</subtitle>
+  <link href="https://xinxintu.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://xinxintu.github.io/"/>
+  <updated>2021-08-12T09:14:24.305Z</updated>
+  <id>https://xinxintu.github.io/</id>
+  
+  <author>
+    <name>xinxin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>React</title>
+    <link href="https://xinxintu.github.io/posts/9de.html"/>
+    <id>https://xinxintu.github.io/posts/9de.html</id>
+    <published>2021-06-11T09:47:50.000Z</published>
+    <updated>2021-08-12T09:14:24.305Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;React组件化的理解&quot;&gt;&lt;a href=&quot;#React组件化的理解&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>uniapp学习</title>
+    <link href="https://xinxintu.github.io/posts/c02d.html"/>
+    <id>https://xinxintu.github.io/posts/c02d.html</id>
+    <published>2021-04-02T11:04:10.000Z</published>
+    <updated>2021-08-12T09:14:24.307Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Uniapp学习&quot;&gt;&lt;a href=&quot;#Uniapp学习&quot; class=&quot;headerlink&quot; title=&quot;Uniapp学习&quot;&gt;&lt;/a&gt;Uniapp学习&lt;/h1&gt;&lt;h2 id=&quot;1-uni-app介绍&quot;&gt;&lt;a href=&quot;#1-uni-app介绍&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="vue" scheme="https://xinxintu.github.io/tags/vue/"/>
+    
+    <category term="uniapp" scheme="https://xinxintu.github.io/tags/uniapp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MVC</title>
+    <link href="https://xinxintu.github.io/posts/46ee.html"/>
+    <id>https://xinxintu.github.io/posts/46ee.html</id>
+    <published>2021-03-23T07:29:38.000Z</published>
+    <updated>2021-08-12T09:14:24.302Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;MVC开发模式&quot;&gt;&lt;a href=&quot;#MVC开发模式&quot; class=&quot;headerlink&quot; title=&quot;MVC开发模式&quot;&gt;&lt;/a&gt;MVC开发模式&lt;/h1&gt;&lt;h2 id=&quot;一、MVC开发模式优点：&quot;&gt;&lt;a href=&quot;#一、MVC开发模式优点：&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="MVC" scheme="https://xinxintu.github.io/tags/MVC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>canvas笔记</title>
+    <link href="https://xinxintu.github.io/posts/6c81.html"/>
+    <id>https://xinxintu.github.io/posts/6c81.html</id>
+    <published>2021-03-20T16:04:01.000Z</published>
+    <updated>2021-08-04T06:35:09.266Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Canvas笔记&quot;&gt;&lt;a href=&quot;#Canvas笔记&quot; class=&quot;headerlink&quot; title=&quot;Canvas笔记&quot;&gt;&lt;/a&gt;Canvas笔记&lt;/h1&gt;&lt;h2 id=&quot;一、Canvas概述&quot;&gt;&lt;a href=&quot;#一、Canvas概述&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="canvas" scheme="https://xinxintu.github.io/tags/canvas/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>js面试题</title>
+    <link href="https://xinxintu.github.io/posts/9482.html"/>
+    <id>https://xinxintu.github.io/posts/9482.html</id>
+    <published>2021-03-11T04:06:30.000Z</published>
+    <updated>2021-03-20T05:36:07.917Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;js每日一题&quot;&gt;&lt;a href=&quot;#js每日一题&quot; class=&quot;headerlink&quot; title=&quot;js每日一题&quot;&gt;&lt;/a&gt;js每日一题&lt;/h1&gt;&lt;h2 id=&quot;1-全局移除某个class&quot;&gt;&lt;a href=&quot;#1-全局移除某个class&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="js" scheme="https://xinxintu.github.io/tags/js/"/>
+    
+    <category term="forEach" scheme="https://xinxintu.github.io/tags/forEach/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue前端交互</title>
+    <link href="https://xinxintu.github.io/posts/5014.html"/>
+    <id>https://xinxintu.github.io/posts/5014.html</id>
+    <published>2021-02-27T03:24:52.000Z</published>
+    <updated>2021-03-15T16:03:17.126Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Vue前后端交互&quot;&gt;&lt;a href=&quot;#Vue前后端交互&quot; class=&quot;headerlink&quot; title=&quot;Vue前后端交互&quot;&gt;&lt;/a&gt;Vue前后端交互&lt;/h1&gt;&lt;h2 id=&quot;1-前后端交互模式&quot;&gt;&lt;a href=&quot;#1-前后端交互模式&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="vue" scheme="https://xinxintu.github.io/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue组件化</title>
+    <link href="https://xinxintu.github.io/posts/be21.html"/>
+    <id>https://xinxintu.github.io/posts/be21.html</id>
+    <published>2021-02-23T10:03:51.000Z</published>
+    <updated>2021-02-25T11:26:47.129Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Vue组件化&quot;&gt;&lt;a href=&quot;#Vue组件化&quot; class=&quot;headerlink&quot; title=&quot;Vue组件化&quot;&gt;&lt;/a&gt;Vue组件化&lt;/h1&gt;&lt;h4 id=&quot;1-现实中的组件化思想体现&quot;&gt;&lt;a href=&quot;#1-现实中的组件化思想体现&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="vue" scheme="https://xinxintu.github.io/tags/vue/"/>
+    
+    <category term="props" scheme="https://xinxintu.github.io/tags/props/"/>
+    
+    <category term="component" scheme="https://xinxintu.github.io/tags/component/"/>
+    
+    <category term="slot" scheme="https://xinxintu.github.io/tags/slot/"/>
+    
+    <category term="eventHub" scheme="https://xinxintu.github.io/tags/eventHub/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue常用特性</title>
+    <link href="https://xinxintu.github.io/posts/4ec1.html"/>
+    <id>https://xinxintu.github.io/posts/4ec1.html</id>
+    <published>2021-02-23T01:59:55.000Z</published>
+    <updated>2021-02-25T11:01:50.823Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Vue常用特性&quot;&gt;&lt;a href=&quot;#Vue常用特性&quot; class=&quot;headerlink&quot; title=&quot;Vue常用特性&quot;&gt;&lt;/a&gt;Vue常用特性&lt;/h1&gt;&lt;h4 id=&quot;1-过滤器&quot;&gt;&lt;a href=&quot;#1-过滤器&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="vue" scheme="https://xinxintu.github.io/tags/vue/"/>
+    
+    <category term="过滤器" scheme="https://xinxintu.github.io/tags/%E8%BF%87%E6%BB%A4%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端面试题（1）</title>
+    <link href="https://xinxintu.github.io/posts/f568.html"/>
+    <id>https://xinxintu.github.io/posts/f568.html</id>
+    <published>2021-02-21T04:06:30.000Z</published>
+    <updated>2021-03-14T07:58:18.509Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前端面试题&quot;&gt;&lt;a href=&quot;#前端面试题&quot; class=&quot;headerlink&quot; title=&quot;前端面试题&quot;&gt;&lt;/a&gt;前端面试题&lt;/h1&gt;&lt;h4 id=&quot;1-HTML5表单增加的输入类型&quot;&gt;&lt;a href=&quot;#1-HTML5表单增加的输入类型&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="前端面试题" scheme="https://xinxintu.github.io/tags/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+    <category term="html5" scheme="https://xinxintu.github.io/tags/html5/"/>
+    
+    <category term="javascript" scheme="https://xinxintu.github.io/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JS数据结构和算法</title>
+    <link href="https://xinxintu.github.io/posts/6abd.html"/>
+    <id>https://xinxintu.github.io/posts/6abd.html</id>
+    <published>2020-09-13T09:47:48.000Z</published>
+    <updated>2023-03-13T10:16:29.873Z</updated>
+    
+    
+    
+    
+    
+    <category term="数据结构" scheme="https://xinxintu.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>代码规范</title>
+    <link href="https://xinxintu.github.io/posts/8a2d.html"/>
+    <id>https://xinxintu.github.io/posts/8a2d.html</id>
+    <published>2020-06-13T10:30:42.000Z</published>
+    <updated>2023-03-13T14:29:29.468Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-1-集成editorconfig配置&quot;&gt;&lt;a href=&quot;#1-1-集成editorconfig配置&quot; class=&quot;headerlink&quot; title=&quot;1.1. 集成editorconfig配置&quot;&gt;&lt;/a&gt;1.1.</summary>
+        
+      
+    
+    
+    
+    
+    <category term="代码规范" scheme="https://xinxintu.github.io/tags/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo+github+hexo-theme-matery搭建个人博客</title>
+    <link href="https://xinxintu.github.io/posts/3eeb.html"/>
+    <id>https://xinxintu.github.io/posts/3eeb.html</id>
+    <published>2020-05-21T04:06:30.000Z</published>
+    <updated>2023-03-13T11:19:28.765Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Windows搭建自己的博客&quot;&gt;&lt;a href=&quot;#Windows搭建自己的博客&quot; class=&quot;headerlink&quot; title=&quot;Windows搭建自己的博客&quot;&gt;&lt;/a&gt;Windows搭建自己的博客&lt;/h1&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="https://xinxintu.github.io/tags/hexo/"/>
+    
+    <category term="github" scheme="https://xinxintu.github.io/tags/github/"/>
+    
+    <category term="node" scheme="https://xinxintu.github.io/tags/node/"/>
+    
+    <category term="hexo-theme-matery" scheme="https://xinxintu.github.io/tags/hexo-theme-matery/"/>
+    
+    <category term="博客搭建" scheme="https://xinxintu.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+  </entry>
+  
+</feed>
