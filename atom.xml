@@ -6,7 +6,7 @@
   <link href="https://xinxintu.github.io/atom.xml" rel="self"/>
   
   <link href="https://xinxintu.github.io/"/>
-  <updated>2021-08-12T09:14:24.305Z</updated>
+  <updated>2023-03-14T13:34:08.629Z</updated>
   <id>https://xinxintu.github.io/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>React</title>
+    <title>React 学习笔记</title>
+    <link href="https://xinxintu.github.io/posts/addd.html"/>
+    <id>https://xinxintu.github.io/posts/addd.html</id>
+    <published>2021-07-03T01:27:40.000Z</published>
+    <updated>2023-03-14T13:34:08.629Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://snippet-generator.app/&quot;&gt;生成 vscode 代码片段网站&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="React" scheme="https://xinxintu.github.io/tags/React/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>React初识</title>
     <link href="https://xinxintu.github.io/posts/9de.html"/>
     <id>https://xinxintu.github.io/posts/9de.html</id>
-    <published>2021-06-11T09:47:50.000Z</published>
-    <updated>2021-08-12T09:14:24.305Z</updated>
+    <published>2021-04-11T09:47:50.000Z</published>
+    <updated>2023-03-14T13:36:38.116Z</updated>
     
     
       
@@ -240,17 +264,96 @@
   </entry>
   
   <entry>
-    <title>JS数据结构和算法</title>
-    <link href="https://xinxintu.github.io/posts/6abd.html"/>
-    <id>https://xinxintu.github.io/posts/6abd.html</id>
-    <published>2020-09-13T09:47:48.000Z</published>
-    <updated>2023-03-13T10:16:29.873Z</updated>
+    <title>js数据结构与算法（二）</title>
+    <link href="https://xinxintu.github.io/posts/c6f9.html"/>
+    <id>https://xinxintu.github.io/posts/c6f9.html</id>
+    <published>2021-01-08T04:06:27.000Z</published>
+    <updated>2023-03-14T14:15:40.635Z</updated>
     
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;JavaScript-数据结构与算法（六）单向链表&quot;&gt;&lt;a href=&quot;#JavaScript-数据结构与算法（六）单向链表&quot; class=&quot;headerlink&quot; title=&quot;JavaScript 数据结构与算法（六）单向链表&quot;&gt;&lt;/a&gt;JavaScript</summary>
+        
+      
     
     
     
     
     <category term="数据结构" scheme="https://xinxintu.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JS数据结构和算法（一）</title>
+    <link href="https://xinxintu.github.io/posts/6abd.html"/>
+    <id>https://xinxintu.github.io/posts/6abd.html</id>
+    <published>2020-09-13T09:47:48.000Z</published>
+    <updated>2023-03-14T14:01:20.327Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;JavaScript-数据结构与算法（一）&quot;&gt;&lt;a href=&quot;#JavaScript-数据结构与算法（一）&quot; class=&quot;headerlink&quot; title=&quot;JavaScript 数据结构与算法（一）&quot;&gt;&lt;/a&gt;JavaScript</summary>
+        
+      
+    
+    
+    
+    
+    <category term="数据结构" scheme="https://xinxintu.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ES6 学习笔记</title>
+    <link href="https://xinxintu.github.io/posts/63f.html"/>
+    <id>https://xinxintu.github.io/posts/63f.html</id>
+    <published>2020-09-04T01:56:09.000Z</published>
+    <updated>2023-03-14T13:58:24.953Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;ES6语法&quot;&gt;&lt;a href=&quot;#ES6语法&quot; class=&quot;headerlink&quot; title=&quot;ES6语法&quot;&gt;&lt;/a&gt;ES6语法&lt;/h1&gt;&lt;h3 id=&quot;什么是ES6&quot;&gt;&lt;a href=&quot;#什么是ES6&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="ES6" scheme="https://xinxintu.github.io/tags/ES6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vuex 学习笔记</title>
+    <link href="https://xinxintu.github.io/posts/3015.html"/>
+    <id>https://xinxintu.github.io/posts/3015.html</id>
+    <published>2020-07-14T12:36:23.000Z</published>
+    <updated>2023-03-14T12:50:19.804Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;###1.Vuex概述&lt;/p&gt;
+&lt;p&gt;Vuex是实现组件全局状态（数据）管理的一种机制，可以方便的实现组件之间的数据共享&lt;/p&gt;
+&lt;p&gt;使用Vuex管理数据的好处：&lt;br&gt;A.能够在vuex中集中管理共享的数据，便于开发和后期进行维护&lt;br&gt;B.能够高效的实现组件之间的数据</summary>
+        
+      
+    
+    
+    
+    
+    <category term="vuex" scheme="https://xinxintu.github.io/tags/vuex/"/>
     
   </entry>
   
